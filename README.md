@@ -5,3 +5,5 @@
 -If you hold the score, the current score will be saved to the score and you will loose your turn.
 
 - The first player to make 100 points win the game
+
+# This is game is a simple javascript game to show some concepts about Js
