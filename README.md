@@ -8,4 +8,4 @@
 - The first player to make 100 points win the game
 </section>
 
-# This is game is a simple javascript game to show some concepts about Js
+<section>This is game is a simple javascript game to show some concepts about Js </section>
