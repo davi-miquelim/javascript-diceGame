@@ -7,5 +7,5 @@
 
 - The first player to make 100 points win the game
 </section>
-
+<hr/>
 <section>This is game is a simple javascript game to show some concepts about Js </section>
